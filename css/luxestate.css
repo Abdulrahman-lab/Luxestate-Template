@@ -35,6 +35,9 @@ input:focus {
 img {
     max-width: 100%;
 }
+h1 + p {
+    white-space: pre-line;
+}
 @media (min-width: 992px) {
     .container {
         padding: 0 150px;
