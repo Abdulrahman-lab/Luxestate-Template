@@ -1,0 +1,24 @@
+.p-style {
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 2;
+    color: #1f373d;
+}
+.sections-heading {
+    font-size: 40px;
+    font-weight: 600;
+    color: var(--main-color);
+}
+@media (max-width: 767px) {
+    .margin-center-mobile {
+        margin-right: auto !important;
+        margin-left: auto !important;
+    }
+    .mobile-center,
+    .sections-heading {
+        text-align: center !important;
+    }
+    .h1-shrink {
+        font-size: 40px !important;
+    }
+}
