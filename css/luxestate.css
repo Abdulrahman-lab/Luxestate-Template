@@ -149,7 +149,7 @@ main .container {
     margin-top: 83px;
 }
 main .container-1 {
-    background-image: url(/imgs/background.webp);
+    background-image: url(../imgs/background.webp);
     background-size: 80% 100%;
     background-repeat: no-repeat;
     background-position: right;
